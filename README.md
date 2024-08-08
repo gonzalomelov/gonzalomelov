@@ -29,4 +29,3 @@ All-in on Web3 development, striving to onboard the next billion users into the 
  - Diploma of Specialist in Technology Management from [FING-UDELAR](https://www.fing.edu.uy/).
 
  - BSc in Computer Science from [FING-UDELAR](https://www.fing.edu.uy/).
-Jan., Feb., March, April, May, June and July Aug., Sept., Oct., Nov., Dec.
