@@ -2,7 +2,7 @@
 
 ___
 
-All-in on Web3 development, striving to onboard the next billion users into the decentralized space.
+Building the Web3 ecosystem to welcome a billion new decentralized users.
 
 
 ⛓️ Projects:
