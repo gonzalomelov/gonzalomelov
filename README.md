@@ -7,11 +7,11 @@ Building the Web3 ecosystem to welcome a billion new decentralized users.
 
 ⛓️ Projects:
 
-- All @ [Target Onchain](https://www.targetonchain.xyz) (June 2024 - July 2024) building from scratch a platform to recommend [Shopify](https://shopify.com) and [Slice](https://slice.so/) products on [Farcaster](https://www.farcaster.xyz/) based on users' onchain data. More info [here](https://devfolio.co/projects/target-onchain-47c7).
+- All @ [Target Onchain](https://www.targetonchain.xyz) (June 2024 - July 2024) building from scratch a platform to recommend [Shopify](https://shopify.com) and [Slice](https://slice.so/) products on [Farcaster](https://www.farcaster.xyz/) based on users' onchain data. Built for Base Onchain Summer buildathon [here](https://devfolio.co/projects/target-onchain-47c7). 
 
-- All @ [Bump your DevCon 7 Bid](https://warpcast.com/gonzalomelov.eth/0x27fb36af) (June 2024) implementing a Farcaster frame that allows users to conveniently bump their bids on the frame, ensuring a dynamic and interactive bidding process. This system ensures a transparent and verifiable method for attendees to secure their tickets while participating in an engaging and fun process.
+- All @ [Bump your DevCon 7 Bid](https://warpcast.com/gonzalomelov.eth/0x27fb36af) (June 2024) implementing a Farcaster frame that allows users to conveniently bump their bids on the frame, ensuring a dynamic and interactive bidding process. This system ensures a transparent and verifiable method for attendees to secure their tickets while participating in an engaging and fun process. [Dune Analytics](https://dune.com/gonzalomelov/devcon-7-raffle).
 
-- All @ [Farcaster Onchain Verification](https://farcaster-onchain-verification.gonzalomelov.xyz/) (May 2024 - April 2024) building from scratch a simple frame on Farcaster to allow users attests to their account to improve their [Gitcoin Passport](https://passport.gitcoin.co/) humanity score. Also contributed to Gitcoin Passport by adding the Farcaster stamp [here](https://github.com/Farcaster-On-Chain-Verification/passport/tree/feat/add-farcaster-stamp).
+- All @ [Farcaster Onchain Verification](https://farcaster-onchain-verification.gonzalomelov.xyz/) (May 2024 - April 2024) building from scratch a simple frame on Farcaster to allow users attests to their account to improve their [Gitcoin Passport](https://passport.gitcoin.co/) humanity score. Also contributed to Gitcoin Passport by adding the Farcaster stamp [here](https://github.com/Farcaster-On-Chain-Verification/passport/tree/feat/add-farcaster-stamp). [Dune Analytics](https://dune.com/gonzalomelov/farcaster-onchain-verifications).
 
 👨🏻‍💻 Work:
 
