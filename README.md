@@ -2,7 +2,7 @@
 
 ___
 
-Building the Web3 ecosystem to welcome a billion new decentralized users.
+Helping build the onchain ecosystem to welcome a billion new decentralized users.
 
 
 ⛓️ Projects:
