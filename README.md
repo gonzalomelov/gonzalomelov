@@ -2,7 +2,7 @@
 
 ___
 
-Helping build the onchain ecosystem to welcome a billion new decentralized users.
+Helping build the blockchain ecosystem to welcome a billion new decentralized users.
 
 
 ⛓️ Projects:
