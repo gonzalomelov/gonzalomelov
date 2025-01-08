@@ -7,6 +7,10 @@ Helping build the blockchain ecosystem to welcome a billion new decentralized us
 
 ⛓️ Projects:
 
+- [Adversarium](https://adversarium.xyz) (Dec 2024 - Current) Building a platform for creating adversarial AI-driven games with blockchain-powered prize pools and monetization tools. Integrated OnchainKit, AgentKit, and OpenAI LLMs for smart contracts and customizable AI agents. Built for Aleph de Verano 2024. [See video here](https://www.youtube.com/watch?v=J6_YBLm3bs4).
+
+- [AI Agent for Coinbase Wallet](https://realtimesmartwallet.vercel.app) (Oct 2024 - Nov 2024) Simplified blockchain access for LatAm users by building a voice-enabled AI agent to interact with the Coinbase Smart Wallet in real time. Used [OpenAI Realtime API](https://platform.openai.com/docs/guides/realtime/overview?text-generation-quickstart-example=audio) for a human-like experience. Built Based LatAm. [See video here](https://www.youtube.com/watch?v=TYVzOyeb1Wg).
+
 - [Onchain Inspirers Collective](https://www.goinspire.xyz) (Aug 2024 - Sep 2024) Inspired by "Los Simuladores", an Argentine TV series about a team solving problems through social engineering, [goinspire.xyz](https://goinspire.xyz) brings this concept onchain using a multi-agent system using [Galadriel](https://galadriel.com/). It focuses on encouraging positive actions, like making donations or adopting new habits, within [XMTP](https://xmtp.org/) group chats, and having them verified onchain using [Sign Protocol](https://sign.global/). Built for ETHOnline 2024 [here](https://ethglobal.com/showcase/goinspire-xyz-yzvyj). 
 
 - [Target Onchain](https://www.targetonchain.xyz) (June 2024 - July 2024) building from scratch a platform to recommend [Shopify](https://shopify.com) and [Slice](https://slice.so/) products on [Farcaster](https://www.farcaster.xyz/) based on users' onchain data. Built for Base Onchain Summer buildathon [here](https://devfolio.co/projects/target-onchain-47c7). 
